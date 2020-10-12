@@ -1,5 +1,5 @@
-# OS-Shell-Simulation-in-C
-A simple linux shell simulation in C.
+# Linux-Shell-Simulation-in-C
+The OUTPUTs are upload in the Explanation.pdf file.
 
 OS ASSIGNMENT-1
 
