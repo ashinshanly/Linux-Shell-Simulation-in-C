@@ -1,5 +1,5 @@
 # Linux-Shell-Simulation-in-C
-The OUTPUTs are upload in the Explanation.pdf file.
+The OUTPUTs are uploaded in the Explanation.pdf file.
 
 OS ASSIGNMENT-1
 
